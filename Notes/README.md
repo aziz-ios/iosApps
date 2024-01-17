@@ -1,7 +1,11 @@
 # Notes
 
 <p align="center">
-<img src="https://github.com/aziz-ios/iosApps/blob/master/Africa/Africa/Assets.xcassets/screenshots/1.imageset/1.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+<img src="https://github.com/aziz-ios/iosApps/blob/master/Notes/Notes%20WatchKit%20Extension/Assets.xcassets/screenshots/1.imageset/1.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+<img src="https://github.com/aziz-ios/iosApps/blob/master/Notes/Notes%20WatchKit%20Extension/Assets.xcassets/screenshots/2.imageset/2.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+<img src="https://github.com/aziz-ios/iosApps/blob/master/Notes/Notes%20WatchKit%20Extension/Assets.xcassets/screenshots/3.imageset/3.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+<img src="https://github.com/aziz-ios/iosApps/blob/master/Notes/Notes%20WatchKit%20Extension/Assets.xcassets/screenshots/4.imageset/4.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+<img src="https://github.com/aziz-ios/iosApps/blob/master/Notes/Notes%20WatchKit%20Extension/Assets.xcassets/screenshots/5.imageset/5.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
 
 </p>
 
